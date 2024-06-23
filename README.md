@@ -10,9 +10,9 @@ My goal was to transform this data into a dynamic dashboard to identify patterns
 
 **Project Objectives:**
 
-**Data Preparation:** Clean and prepare the data for analysis.
-**Data Exploration:** Use Pivot Tables to explore and analyze the data.
-**Dashboard Creation:** Build an interactive and dynamic dashboard.
+**Data Preparation:** Clean and prepare the data for analysis
+**Data Exploration:** Use Pivot Tables to explore and analyze the data
+**Dashboard Creation:** Build an interactive and dynamic dashboard
 
 This project has provided valuable insights into our sales trends and customer behaviors, helping us make data-driven decisions to enhance our operations.
 
